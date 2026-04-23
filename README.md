@@ -1,6 +1,6 @@
-# Eidolon
-
 <div align="center">
+
+# Eidolon
 
 **Post-quantum cryptographic vault with a holographic key**
 
