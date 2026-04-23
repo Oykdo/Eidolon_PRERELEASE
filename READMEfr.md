@@ -166,8 +166,11 @@ Non. Eidolon ne "phone home" pas, ne collecte pas de télémétrie, et n'effectu
 **Pourquoi le code n'est-il pas encore open source ?**
 Publier du code cryptographique avant un audit externe est irresponsable. Un attaquant peut étudier vos faiblesses plus vite qu'une communauté de volontaires ne peut les trouver et les signaler. Notre feuille de route s'engage sur un audit complet en Phase 4, suivi d'une ouverture progressive du code.
 
-**Y a-t-il une ICO, un token sale ou un airdrop ?**
-Non. Eidolon n'a pas de token de levée de fonds, pas d'ICO, et pas de campagne d'airdrop. Le système d'allocation PSNX interne est un mécanisme *intra-système* pour les coffres fondateurs — ce n'est pas un instrument financier offert au public.
+**Y a-t-il une ICO, un token sale ou une pré-vente ?**
+Non. Eidolon n'a pas de token de levée de fonds, pas d'ICO, et pas de pré-vente. Personne ne peut acheter son entrée dans le projet — PSNX ne peut être acquis contre de l'argent à aucun stade.
+
+**Y a-t-il une allocation pour les premiers utilisateurs ?**
+Oui, en toute transparence. Les **10 000 premiers coffres** enregistrés reçoivent une **allocation fondateur PSNX** selon un calendrier de vesting progressif, distribuée par paliers basés sur l'ordre d'inscription. L'offre totale de PSNX est **plafonnée à 21 millions d'unités**, fixe par conception (modèle Bitcoin, aucune émission future possible). Cette allocation récompense le fait d'*être précoce à l'écosystème*, pas une contribution financière — elle n'est ni vendue, ni cotée publiquement, ni présentée comme un véhicule spéculatif. Voir [`ARCHITECTURE.md`](./ARCHITECTURE.md#allocation-fondateur-psnx) pour la structure des paliers.
 
 **Quand sera-t-il production-ready ?**
 Quand la Phase 1 sera stabilisée et que le SDK de Phase 2 sera disponible. Aucune date fixée n'est communiquée — la qualité et la correction priment sur le calendrier.
@@ -185,7 +188,7 @@ Eidolon est actuellement développé en solo, en phase pré-communauté. Le proj
 | Valeur | En pratique |
 |--------|-------------|
 | **Audit avant open-source** | Le système fonctionnel et les docs viennent d'abord ; le code ne s'ouvre qu'après audit formel |
-| **Pas de tokenisation prématurée** | Pas d'ICO, pas d'airdrop, pas de véhicule spéculatif attaché au projet |
+| **Pas de tokenisation prématurée** | Pas d'ICO, pas de pré-vente, pas de levée de fonds publique — PSNX est une allocation fondateur interne, pas un instrument financier |
 | **Longévité plutôt que vitesse** | Conçu pour fonctionner encore dans 30 ans, pas pour gagner un hackathon |
 | **Vos données vous appartiennent** | Pas de sauvegarde silencieuse, pas d'upload "de confort", pas d'analytics tiers |
 | **Badges honnêtes** | Le README reflète l'état réel du projet, y compris ce qu'il n'est *pas* encore |
