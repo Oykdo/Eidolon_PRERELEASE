@@ -164,7 +164,7 @@ No. Key generation, authentication, signing, and vault operations are fully offl
 No. Eidolon does not phone home, does not collect telemetry, and does not perform "background sync" or "cloud backup" without your explicit action. Your vault lives on your device, full stop.
 
 **Why isn't the code open source yet?**
-Publishing cryptographic code before external audit is irresponsible. An attacker can study your weaknesses faster than a volunteer community can find and report them. Our roadmap commits to full audit in Phase 4, followed by progressive code disclosure.
+Publishing cryptographic code before external audit is irresponsible. An attacker can study your weaknesses faster than a volunteer community can find and report them. The project commits to a full external audit before any source-code disclosure, followed by progressive opening of the cryptographic core.
 
 **Is there a token sale, ICO, or pre-sale?**
 No. Eidolon has no public token sale, no ICO, and no pre-sale. No one can buy their way into the project — PSNX cannot be purchased with money at any stage.
@@ -200,14 +200,16 @@ Eidolon is currently developed solo, pre-community phase. The project deliberate
 
 **Eidolon is under active development, pre-external security audit.** This repository is a **public showcase** — documentation and visual material only. Source code, exact parameters, and implementation details are not published at this stage.
 
-### Roadmap
+### Future objectives
 
-| Phase | Goal | Status |
-|-------|------|--------|
-| **Phase 1** | Product stabilization — identity, authentication, runtime economy | In progress |
-| **Phase 2** | "Eidolon Connect" SDK — reusable auth layer for third-party apps | Specification |
-| **Phase 3** | Multi-platform distribution — desktop, mobile, browser extension | Design |
-| **Phase 4** | Open protocol — formal spec, external audit, standardization submission | Planned |
+The project commits to these objectives, without calendar commitments:
+
+- **Stabilize the core product** — vault identity, authentication, runtime economy, and the complete vault lifecycle from genesis to transfer
+- **Release the Eidolon Connect SDK** — a reusable authentication layer that third-party applications can integrate to offer passwordless, post-quantum login to their users
+- **Distribute across platforms** — desktop application, mobile companion, browser extension, and headless backend integrations
+- **Open the protocol** — formal specification of the vault format and authentication protocol, external security audit by an independent cryptography firm, and submission to relevant standardization bodies
+
+The external audit precedes any disclosure of the cryptographic core's source code. No source-code opening takes place before that milestone.
 
 ---
 
@@ -226,7 +228,7 @@ Eidolon is currently developed solo, pre-community phase. The project deliberate
 - The material catalog, polyhedron choices, or economy constants
 - Any test suite or internal documentation
 
-These items will be **progressively disclosed after Phase 4 audit**, together with the formal protocol specification.
+These items will be **progressively disclosed after the external audit**, together with the formal protocol specification.
 
 ---
 

@@ -164,7 +164,7 @@ Non. Génération de clé, authentification, signature et opérations du coffre 
 Non. Eidolon ne "phone home" pas, ne collecte pas de télémétrie, et n'effectue ni "synchronisation d'arrière-plan" ni "sauvegarde cloud" sans action explicite de votre part. Votre coffre vit sur votre appareil, point.
 
 **Pourquoi le code n'est-il pas encore open source ?**
-Publier du code cryptographique avant un audit externe est irresponsable. Un attaquant peut étudier vos faiblesses plus vite qu'une communauté de volontaires ne peut les trouver et les signaler. Notre feuille de route s'engage sur un audit complet en Phase 4, suivi d'une ouverture progressive du code.
+Publier du code cryptographique avant un audit externe est irresponsable. Un attaquant peut étudier vos faiblesses plus vite qu'une communauté de volontaires ne peut les trouver et les signaler. Le projet s'engage sur un audit externe complet avant toute divulgation de code, suivi d'une ouverture progressive du noyau cryptographique.
 
 **Y a-t-il une ICO, un token sale ou une pré-vente ?**
 Non. Eidolon n'a pas de token de levée de fonds, pas d'ICO, et pas de pré-vente. Personne ne peut acheter son entrée dans le projet — PSNX ne peut être acquis contre de l'argent à aucun stade.
@@ -200,14 +200,16 @@ Eidolon est actuellement développé en solo, en phase pré-communauté. Le proj
 
 **Eidolon est en développement actif, pré-audit de sécurité externe.** Ce dépôt est une **vitrine publique** — documentation et matériel visuel uniquement. Le code source, les paramètres précis et les détails d'implémentation ne sont pas publiés à ce stade.
 
-### Feuille de route
+### Objectifs futurs
 
-| Phase | Objectif | État |
-|-------|----------|------|
-| **Phase 1** | Stabilisation du produit — identité, authentification, économie runtime | En cours |
-| **Phase 2** | SDK "Eidolon Connect" — couche d'authentification réutilisable | Spécification |
-| **Phase 3** | Distribution multiplateforme — desktop, mobile, extension navigateur | Design |
-| **Phase 4** | Protocole ouvert — spec formelle, audit externe, soumission standardisation | Planifié |
+Le projet s'engage sur ces objectifs, sans engagement de calendrier :
+
+- **Stabiliser le produit central** — identité du coffre, authentification, économie runtime, et cycle de vie complet du coffre, de la genèse au transfert
+- **Livrer le SDK Eidolon Connect** — une couche d'authentification réutilisable que des applications tierces peuvent intégrer pour offrir à leurs utilisateurs une connexion sans mot de passe et post-quantique
+- **Distribuer sur plusieurs plateformes** — application desktop, compagnon mobile, extension navigateur, intégrations backend headless
+- **Ouvrir le protocole** — spécification formelle du format de coffre et du protocole d'authentification, audit de sécurité externe par un cabinet indépendant de cryptographie, et soumission aux organes de standardisation concernés
+
+L'audit externe précède toute divulgation du code source du noyau cryptographique. Aucune ouverture de code n'a lieu avant cette étape.
 
 ---
 
@@ -226,7 +228,7 @@ Eidolon est actuellement développé en solo, en phase pré-communauté. Le proj
 - Le catalogue matériaux, les choix de polyèdres, les constantes d'économie
 - Toute suite de tests ou documentation interne
 
-Ces éléments seront **divulgués progressivement après l'audit de Phase 4**, accompagnés de la spécification formelle du protocole.
+Ces éléments seront **divulgués progressivement après l'audit externe**, accompagnés de la spécification formelle du protocole.
 
 ---
 
