@@ -1,6 +1,6 @@
 # Architecture conceptuelle d'Eidolon
 
-Ce document décrit l'architecture d'Eidolon au niveau conceptuel. Il ne contient **ni paramètres cryptographiques précis, ni détails d'implémentation, ni structures de fichiers internes**. Ces éléments sont volontairement réservés jusqu'à l'audit externe prévu en Phase 4.
+Ce document décrit l'architecture d'Eidolon au niveau conceptuel. Il ne contient **ni paramètres cryptographiques précis, ni détails d'implémentation, ni structures de fichiers internes**. Ces éléments sont volontairement réservés jusqu'à l'audit externe indépendant.
 
 ---
 
@@ -41,7 +41,7 @@ Le pipeline de génération produit une clé holographique à haute entropie eff
 | Protection des métadonnées | Masquage interne réversible |
 | Non-falsifiabilité | Signatures post-quantiques |
 
-Les primitives mises en œuvre sont issues de la cryptographie post-quantique en cours de standardisation et de techniques cryptographiques vérifiables éprouvées. **Les détails précis — familles d'algorithmes retenues, paramètres, ordre des étapes, transformations intermédiaires, sources d'entropie, tests de qualité — ne sont pas publiés à ce stade** et feront l'objet d'une divulgation progressive après l'audit externe de Phase 4.
+Les primitives mises en œuvre sont issues de la cryptographie post-quantique en cours de standardisation et de techniques cryptographiques vérifiables éprouvées. **Les détails précis — familles d'algorithmes retenues, paramètres, ordre des étapes, transformations intermédiaires, sources d'entropie, tests de qualité — ne sont pas publiés à ce stade** et feront l'objet d'une divulgation progressive après l'audit externe.
 
 ---
 
@@ -185,7 +185,7 @@ Ces enregistrements proviennent d'un **vaisseau de test synthétique** (données
 
 Les couches L0-L7 sont **toujours actives** ; leur niveau de détail dépend du rang du coffre. La couche L8, illustrée ci-dessus, est **activable à la demande** et s'appuie directement sur l'âge du coffre. D'autres couches activables existent dans le système mais ne sont pas publiées à ce stade.
 
-> Les captures ne contiennent **aucun code exécutable**. Les algorithmes de rendu, les paramètres de simulation chaotique, les constantes de masquage temporel et la logique d'extraction des données cryptographiques restent confidentiels jusqu'à l'audit externe de Phase 4.
+> Les captures ne contiennent **aucun code exécutable**. Les algorithmes de rendu, les paramètres de simulation chaotique, les constantes de masquage temporel et la logique d'extraction des données cryptographiques restent confidentiels jusqu'à l'audit externe.
 
 ---
 
@@ -252,7 +252,7 @@ Ce document décrit **l'architecture conceptuelle** d'Eidolon. Il ne contient vo
 - les catalogues de matériaux ou de polyèdres
 - les paramètres d'économie runtime (taux, seuils, multiplicateurs)
 
-Ces éléments seront publiés **progressivement après l'audit externe de Phase 4**, accompagnés de leurs démonstrations formelles.
+Ces éléments seront publiés **progressivement après l'audit externe**, accompagnés de leurs démonstrations formelles.
 
 ---
 
