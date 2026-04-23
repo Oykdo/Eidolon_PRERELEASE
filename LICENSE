@@ -1,0 +1,79 @@
+Eidolon — Public Showcase Repository
+Copyright (c) 2026 Oykdo
+
+=====================================================================
+DOCUMENTATION — Creative Commons Attribution-NoDerivatives 4.0 Int'l
+=====================================================================
+
+The documentation contained in this repository (including but not
+limited to README.md, ARCHITECTURE.md, and any other written content)
+is licensed under the Creative Commons Attribution-NoDerivatives 4.0
+International License (CC BY-ND 4.0).
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+    for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link
+    to the license, and indicate if changes were made. You may do
+    so in any reasonable manner, but not in any way that suggests
+    the licensor endorses you or your use.
+  - NoDerivatives — If you remix, transform, or build upon the
+    material, you may not distribute the modified material.
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+Full license text:
+https://creativecommons.org/licenses/by-nd/4.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/licenses/by-nd/4.0/
+
+
+=====================================================================
+SOFTWARE / CODE — All Rights Reserved
+=====================================================================
+
+The Eidolon software, source code, cryptographic algorithms,
+implementation details, parameters, test vectors, and any derivative
+artifacts thereof are NOT included in this repository and are NOT
+licensed for public use, reproduction, distribution, modification,
+or reverse-engineering.
+
+No license — express or implied — is granted to any code, algorithm,
+protocol implementation, or technical specification by the publication
+of this showcase repository.
+
+All rights are reserved by the copyright holder.
+
+Permission to use, copy, modify, or distribute any part of the
+Eidolon software must be obtained in writing from the copyright
+holder and is subject to separate licensing terms.
+
+=====================================================================
+TRADEMARKS
+=====================================================================
+
+"Eidolon", "Cipher", "Eidolon Connect", and associated visual
+identities are unregistered trademarks of the copyright holder.
+Their use in derivative or reference works is permitted solely
+for the purpose of accurate attribution as required by the
+CC BY-ND 4.0 license terms.
+
+=====================================================================
+DISCLAIMER
+=====================================================================
+
+The information in this repository is provided "AS IS", without
+warranty of any kind, express or implied, including but not limited
+to the warranties of merchantability, fitness for a particular
+purpose, and non-infringement. The copyright holder shall not be
+liable for any claim, damages, or other liability arising from the
+use or distribution of this documentation.
+
+This repository describes a cryptographic system that has NOT yet
+undergone formal external security audit. Any implementation,
+deployment, or reliance on the described concepts prior to such
+audit is at the user's own risk.
