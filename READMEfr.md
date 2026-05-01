@@ -6,7 +6,7 @@
 
 *Identité souveraine locale · authentification sans mot de passe · pas de serveur, pas de compte, pas d'email de récupération*
 
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/license-CC%20BY--ND%204.0-lightgrey.svg)](./LICENSE)
+[![Docs : CC BY-SA 4.0](https://img.shields.io/badge/docs-CC%20BY--SA%204.0-blue.svg)](./LICENSE) [![Code : AGPL-3.0 (à venir)](https://img.shields.io/badge/code-AGPL--3.0%20%C3%A0%20venir-brightgreen.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-pre--audit-orange.svg)](#statut)
 [![Post-Quantum](https://img.shields.io/badge/crypto-post--quantum-blueviolet.svg)](#garanties-cryptographiques)
 [![No Telemetry](https://img.shields.io/badge/telemetry-none-success.svg)](#valeurs-de-conception)
@@ -242,9 +242,9 @@ Ce dépôt n'accepte pas de pull requests à ce stade, puisqu'il n'y a pas de co
 
 ## Licence
 
-Ce dépôt — documentation, descriptions et matériel visuel — est publié sous [**CC BY-ND 4.0**](./LICENSE) (attribution obligatoire, pas de dérivés).
+Ce dépôt — documentation, descriptions et matériel visuel — est publié sous [**CC BY-SA 4.0**](./LICENSE) (attribution obligatoire, partage à l'identique).
 
-Le système Eidolon lui-même — code source, algorithmes, spécifications, implémentations — reste **propriétaire, tous droits réservés**. Aucune licence sur le code n'est accordée par la publication de cette vitrine.
+Le code source d'Eidolon n'est pas encore public. Lors de sa publication, il sera diffusé sous [**GNU Affero General Public License v3.0 (AGPL-3.0)**](./LICENSE) — chacun sera libre de l'utiliser, l'étudier, le modifier et le redistribuer, et toute modification exposée comme service réseau devra rester ouverte sous AGPL-3.0. Aucune diffusion propriétaire du code Eidolon n'est envisagée.
 
 ---
 

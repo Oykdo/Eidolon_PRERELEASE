@@ -1,66 +1,80 @@
 Eidolon — Public Showcase Repository
-Copyright (c) 2026 Oykdo
+Copyright (c) 2024-2026 Project Logos
 
 =====================================================================
-DOCUMENTATION — Creative Commons Attribution-NoDerivatives 4.0 Int'l
+DOCUMENTATION — Creative Commons Attribution-ShareAlike 4.0 Int'l
 =====================================================================
 
 The documentation contained in this repository (including but not
-limited to README.md, ARCHITECTURE.md, and any other written content)
-is licensed under the Creative Commons Attribution-NoDerivatives 4.0
-International License (CC BY-ND 4.0).
+limited to README.md, READMEfr.md, ARCHITECTURE.md, and any other
+written or visual content) is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 You are free to:
   - Share — copy and redistribute the material in any medium or format
     for any purpose, even commercially.
+  - Adapt — remix, transform, and build upon the material, including
+    translations, summaries, and derivative explanations.
 
 Under the following terms:
   - Attribution — You must give appropriate credit, provide a link
     to the license, and indicate if changes were made. You may do
     so in any reasonable manner, but not in any way that suggests
     the licensor endorses you or your use.
-  - NoDerivatives — If you remix, transform, or build upon the
-    material, you may not distribute the modified material.
+  - ShareAlike — If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license
+    as the original.
   - No additional restrictions — You may not apply legal terms or
     technological measures that legally restrict others from doing
     anything the license permits.
 
 Full license text:
-https://creativecommons.org/licenses/by-nd/4.0/legalcode
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Human-readable summary:
-https://creativecommons.org/licenses/by-nd/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/
 
 
 =====================================================================
-SOFTWARE / CODE — All Rights Reserved
+SOFTWARE / CODE — Future AGPL-3.0 Release
 =====================================================================
 
 The Eidolon software, source code, cryptographic algorithms,
 implementation details, parameters, test vectors, and any derivative
-artifacts thereof are NOT included in this repository and are NOT
-licensed for public use, reproduction, distribution, modification,
-or reverse-engineering.
+artifacts thereof are NOT included in this repository at this time.
 
-No license — express or implied — is granted to any code, algorithm,
-protocol implementation, or technical specification by the publication
-of this showcase repository.
+When made public, the Eidolon software will be released under the
+GNU Affero General Public License version 3.0 (AGPL-3.0). This
+choice is intentional and reflects the project's long-term vision:
 
-All rights are reserved by the copyright holder.
+  - Anyone may use, study, modify, and redistribute the software,
+    free of charge, for any purpose.
+  - Modifications and derivative works must remain under AGPL-3.0,
+    preserving the rights of all downstream users.
+  - If the software is used to provide a network service to third
+    parties, the operator must make the corresponding source code
+    (including any modifications) available to those users.
 
-Permission to use, copy, modify, or distribute any part of the
-Eidolon software must be obtained in writing from the copyright
-holder and is subject to separate licensing terms.
+This commitment is binding on Project Logos and constitutes advance
+notice of the licensing terms under which the Eidolon source code
+will be published. No proprietary or "all rights reserved" release
+of the Eidolon code is contemplated.
+
+Until publication, no license — express or implied — is granted to
+unpublished code, algorithms, or technical specifications by this
+repository. Publication occurs through the official release channel
+under https://github.com/Oykdo when the project reaches its public
+launch milestone.
 
 =====================================================================
 TRADEMARKS
 =====================================================================
 
-"Eidolon", "Cipher", "Eidolon Connect", and associated visual
-identities are unregistered trademarks of the copyright holder.
-Their use in derivative or reference works is permitted solely
-for the purpose of accurate attribution as required by the
-CC BY-ND 4.0 license terms.
+"Eidolon", "Cipher", "Eidolon Connect", "Project Logos", and
+associated visual identities are unregistered trademarks of the
+copyright holder. Their use in derivative or reference works is
+permitted solely for the purpose of accurate attribution as
+required by the CC BY-SA 4.0 license terms.
 
 =====================================================================
 DISCLAIMER

@@ -6,7 +6,7 @@
 
 *Sovereign local identity · passwordless authentication · no server, no account, no recovery email*
 
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/license-CC%20BY--ND%204.0-lightgrey.svg)](./LICENSE)
+[![Docs: CC BY-SA 4.0](https://img.shields.io/badge/docs-CC%20BY--SA%204.0-blue.svg)](./LICENSE) [![Code: AGPL-3.0 (when published)](https://img.shields.io/badge/code-AGPL--3.0%20when%20published-brightgreen.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-pre--audit-orange.svg)](#status)
 [![Post-Quantum](https://img.shields.io/badge/crypto-post--quantum-blueviolet.svg)](#cryptographic-guarantees)
 [![No Telemetry](https://img.shields.io/badge/telemetry-none-success.svg)](#design-values)
@@ -242,9 +242,9 @@ This repository does not accept pull requests at this stage, as there is no sour
 
 ## License
 
-This repository — documentation, descriptions, and visual material — is published under [**CC BY-ND 4.0**](./LICENSE) (attribution required, no derivatives).
+This repository — documentation, descriptions, and visual material — is published under [**CC BY-SA 4.0**](./LICENSE) (attribution required, share-alike).
 
-The Eidolon system itself — source code, algorithms, specifications, implementations — remains **proprietary, all rights reserved**. No license to the code is granted by the publication of this showcase.
+The Eidolon source code is not yet public. When released, it will be published under the [**GNU Affero General Public License v3.0 (AGPL-3.0)**](./LICENSE) — anyone will be free to use, study, modify, and redistribute it, and any modifications offered as a network service must remain open under AGPL-3.0. No proprietary release of the Eidolon code is contemplated.
 
 ---
 
